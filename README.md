@@ -33,6 +33,9 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919837.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094320.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535518.svg"></code>
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->

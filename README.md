@@ -25,7 +25,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python and C; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@CristhianCarbo9](https://twitter.com/CristhianCarbo9);
+- 📫 How to reach me: [alexcarbo8809@gmail.com](https://www.google.com/intl/es-419/gmail/about/);
 
 **Languages and Tools:**  
 

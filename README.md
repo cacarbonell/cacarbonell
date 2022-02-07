@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristhian Alexander Carbonell</h1>
 <h3 align="center">A passionate and creative Software Engineer and Full Stack Developer with a Back-end inclination from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhian-carbonell&label=Profile%20views&color=0e75b6&style=flat" alt="cristhian-carbonell" /> </p>
+
 - 🌱 I’m currently learning **React, Typescritp, webpack**
 
 - 📝 I regularly write articles on [https://medium.com/@1854](https://medium.com/@1854)
@@ -8,10 +10,6 @@
 - 💬 Ask me about **C, Python, Javascript, NodeJS, HTML, CSS, DevOps.**
 
 - 📫 How to reach me **alexcarbo8809@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-carbonell&show_icons=true&locale=en&layout=compact" alt="cristhian-carbonell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhian-carbonell&show_icons=true&locale=en" alt="cristhian-carbonell" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristhian-carbonell&" alt="cristhian-carbonell" /></p>
